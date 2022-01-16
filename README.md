@@ -21,5 +21,10 @@ I ran a new query to see how many mentors will be available per title and the sc
  
 ### Fig #3: Number of Retirees by department
 ![](Data/retirees_by_department.png)
+
 I ran a query to get the count of retirees per department number and then another query to replace department number with department name for the ease of reading the consolidated data. By simply looking at the output, it's no secret that there are no departments that don't need extensive amount of recruiting. Relatively speaking, however, Development, Production, and Sales department are the ones that are in a serious need. From Fig #1, we were able to deduce that a lot of (senior/assitance) engineers will retire and it aligns with the finding here as well since it's very likely that they work for the Development and Production department. As mentioned in the previous section, these departments will probably have to take actions soon so that they can transition into the next phase as smoothly as possible after the "silver tsunami".
 
+### Fig #4: Retiring managers and their department
+![](Data/retiring_managers.png)
+
+I ran a query to join `unique_titles`, `dept_employee`, and `departments` to find out who are the two managers retiring from `Fig #1` and the screenshot shows their employee number, name, and their department name. Since managers are those who manage employees, I thought it's important to find out what department they work for and advise the HR department to alert those departments (Sales and Research) that they probably have to make some internal adjustments early on.  
