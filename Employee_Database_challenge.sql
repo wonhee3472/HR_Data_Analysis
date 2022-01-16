@@ -17,6 +17,12 @@ FROM retirement_titles as rit
 WHERE (rit.to_date = '9999-01-01')
 ORDER BY rit.emp_no, rit.to_date DESC;
 
+-- Creating a table for retiring_titles
+SELECT COUNT(emp_no), title
+FROM unique_titles
+GROUP BY title
+ORDER BY count DESC;
+
 -- Creating a table for mentorship_eligibility
 SELECT DISTINCT ON(e.emp_no) 
 e.emp_no, e.first_name, e.last_name, e.birth_date, 
