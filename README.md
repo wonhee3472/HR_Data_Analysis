@@ -1,4 +1,5 @@
-# Pewlett-Hackard-Analysis
+# Employee Analysis for Pewlett Hackard
+<img src="https://github.com/wonhee3472/Pewlett-Hackard-Analysis/blob/main/Data/pewlett-hackard.jpeg" style="height: 400px; width: 100%;">
 
 ## Overview of the analysis: 
 Pewlett-Hackard is a huge company with severeal thousands of employees and it's been around for a long time. As the baby boomer generation begins to retire at rapid rate, the company is preparing itself by doing two things: 1. it's offering a retirement package for those who meet certain criteria; 2. it's starting to think about which positions will need to be filled in a near future. 
