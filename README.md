@@ -4,11 +4,13 @@
 
 ## Overview of the analysis:
 
-Pewlett-Hackard is a huge company with severeal thousands of employees and it's been around for a long time. As the baby boomer generation begins to retire at rapid rate, the company is preparing itself by doing two things: 1. it's offering a retirement package for those who meet certain criteria; 2. it's starting to think about which positions will need to be filled in a near future.
+Pewlett-Hackard is a huge company with severeal thousands of employees and it's been around for a long time. As the baby boomer generation begins to retire at rapid rate, the company is preparing itself by doing two things: 
+> 1. it's offering a retirement package for those who meet certain criteria 
+> 2. it's starting to think about which positions will need to be filled in a near future.
 
-The number of upcoming retirements will open up thousand of job openings. Bobby, a HR analyst for the company, is tasked to perform employee research. First, he needs to find out who will be retiring in the next few years. And next, he needs to know how many positions will the company have to fill.
+The number of upcoming retirements will open up thousand of job openings and a HR analyst for the company would have to perform employee research. First, he needs to find out who will be retiring in the next few years. And next, he needs to know how many positions the company will have to fill.
 
-For this specific project, I'm going to be helping Bobby to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
+For this specific project, I'll perform the task of determining the number of retiring employees per title and identifying employees who are eligible to participate in a mentorship program.
 
 ## Results & Summary:
 
